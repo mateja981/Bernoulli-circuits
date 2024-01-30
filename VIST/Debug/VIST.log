@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Mateja\source\repos\VIST\VIST\main.cpp(35,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  VIST.vcxproj -> C:\Users\Mateja\source\repos\VIST\Debug\VIST.exe
